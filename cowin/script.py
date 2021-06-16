@@ -10,8 +10,8 @@ import time
 
 import json
 
-age = 52
-pinCodes = ["110001"]
+age = 30
+pinCodes = ["382715"]
 num_days = 2
 
 print_flag = 'Y'
